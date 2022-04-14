@@ -32,4 +32,5 @@ Other tutorials:
 
 
 ## Setup Development Environment
-Coming soon...
+1. Download Intellij IDEA
+2. Open it and get the [Minecraft Development](https://plugins.jetbrains.com/plugin/8327-minecraft-development) plugin
