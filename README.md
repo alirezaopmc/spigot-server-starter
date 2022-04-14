@@ -34,3 +34,12 @@ Other tutorials:
 ## Setup Development Environment
 1. Download Intellij IDEA
 2. Open it and get the [Minecraft Development](https://plugins.jetbrains.com/plugin/8327-minecraft-development) plugin
+3. Create a new project, using the Minecraft template in the new project window.
+4. Select Spigot
+5. Fill the necessary fileds and choose the minecraft version. (1.18.1 recommended)
+6. Finish the new project wizard.
+
+Now you can write plugins for minecraft.
+Useful links:
+* https://www.spigotmc.org/wiki/spigot/
+* https://www.spigotmc.org/wiki/using-the-event-api/
