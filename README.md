@@ -2,7 +2,7 @@
 Spigot Sever Starter Project
 
 
-# Setup Server
+## Setup Server
 1. Download the latest release from [here]() and extract the zip file into a new folder.
 2. Get spigot jar file from [here](https://getbukkit.org/)(for begginers) or download it using [BuildTools](https://www.spigotmc.org/wiki/buildtools/)(if you are familiar with terminal commands you have pasion)
 2. Put the jar file in the the folder containing the extracted files.
@@ -31,5 +31,5 @@ Other tutorials:
 * https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_Spigot_server
 
 
-# Setup Development Environment
+## Setup Development Environment
 Coming soon...
