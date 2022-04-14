@@ -12,9 +12,18 @@ java -Xmx1G -jar <jar-file-name>.jar
 PAUSE
 ```
 Note that if you are using Spigot 1.18.1, you don't need to edit this file.
+
 3. Open a terminal and run the `run.bat` from there.
 4. After server stoped open and edit the created file `eula.txt`, set it to `true`.
 5. Do the 3rd step step and wait for the server to be runned.
 6. Connect to the ip: `localhost` in minecraft game.
+
 Optional:
+
 7. Open the `bukkit.yml` and set `allow-end=true`. It makes fast in the startup and runtime. [More optimization?](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/)
+
+
+Other tutorials:
+* https://www.spigotmc.org/wiki/spigot-installation/
+* https://www.youtube.com/watch?v=lNp4I-600wo
+* https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_Spigot_server
